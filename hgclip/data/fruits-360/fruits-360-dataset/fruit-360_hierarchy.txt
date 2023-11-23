@@ -1,0 +1,113 @@
+apple braeburn, apple, fruit
+apple crimson snow, apple, fruit
+apple golden, apple, fruit
+apple granny smith, apple, fruit
+apple pink lady, apple, fruit
+apple red, apple, fruit
+apple red delicious, apple, fruit
+apple red yellow, apple, fruit
+apricot, apricot, fruit
+avocado, avocado, fruit
+avocado ripe, avocado, fruit
+banana, banana, fruit
+banana lady finger, banana, fruit
+banana red, banana, fruit
+beetroot, beetroot, vegetable
+blueberry, blueberry, fruit
+cactus fruit, cactus fruit, fruit
+cantaloupe, cantaloupe, fruit
+carambula, carambula, fruit
+cauliflower, cauliflower, vegetable
+cherry, cherry, fruit
+cherry rainier, cherry, fruit
+cherry wax black, cherry, fruit
+cherry wax red, cherry, fruit
+cherry wax yellow, cherry, fruit
+chestnut, chestnut, nut
+clementine, clementine, fruit
+cocos, cocos, fruit
+corn, corn, vegetable
+corn husk, corn husk, vegetable
+cucumber ripe, cucumber, vegetable
+dates, dates, fruit
+eggplant, eggplant, vegetable
+fig, fig, fruit
+ginger root, ginger root, spice
+granadilla, granadilla, fruit
+grape blue, grape, fruit
+grape pink, grape, fruit
+grape white, grape, fruit
+grapefruit pink, grapefruit, fruit
+grapefruit white, grapefruit, fruit
+guava, guava, fruit
+hazelnut, hazelnut, nut
+huckleberry, huckleberry, fruit
+kaki, kaki, fruit
+kiwi, kiwi, fruit
+kohlrabi, kohlrabi, vegetable
+kumquats, kumquats, fruit
+lemon, lemon, fruit
+lemon meyer, lemon, fruit
+limes, limes, fruit
+lychee, lychee, fruit
+mandarine, mandarine, fruit
+mango, mango, fruit
+mango red, mango, fruit
+mangostan, mangostan, fruit
+maracuja, maracuja, fruit
+melon piel de sapo, melon, fruit
+mulberry, mulberry, fruit
+nectarine, nectarine, fruit
+nectarine flat, nectarine, fruit
+nut forest, nut forest, nut
+nut pecan, nut pecan, nut
+onion red, onion, vegetable
+onion red peeled, onion, vegetable
+onion white, onion, vegetable
+orange, orange, fruit
+papaya, papaya, fruit
+passion fruit, passion fruit, fruit
+peach, peach, fruit
+peach flat, peach, fruit
+pear, pear, fruit
+pear abate, pear, fruit
+pear forelle, pear, fruit
+pear kaiser, pear, fruit
+pear monster, pear, fruit
+pear red, pear, fruit
+pear stone, pear, fruit
+pear williams, pear, fruit
+pepino, pepino, fruit
+pepper green, pepper, vegetable
+pepper orange, pepper, vegetable
+pepper red, pepper, vegetable
+pepper yellow, pepper, vegetable
+physalis, physalis, fruit
+physalis with husk, physalis, fruit
+pineapple, pineapple, fruit
+pineapple mini, pineapple, fruit
+pitahaya red, pitahaya, fruit
+plum, plum, fruit
+pomegranate, pomegranate, fruit
+pomelo sweetie, pomelo, fruit
+potato red, potato, vegetable
+potato red washed, potato, vegetable
+potato sweet, potato, vegetable
+potato white, potato, vegetable
+quince, quince, fruit
+rambutan, rambutan, fruit
+raspberry, raspberry, fruit
+redcurrant, redcurrant, fruit
+salak, salak, fruit
+strawberry, strawberry, fruit
+strawberry wedge, strawberry, fruit
+tamarillo, tamarillo, fruit
+tangelo, tangelo, fruit
+tomato, tomato, vegetable
+tomato cherry red, tomato, vegetable
+tomato heart, tomato, vegetable
+tomato maroon, tomato, vegetable
+tomato yellow, tomato, vegetable
+tomato not ripened, tomato, vegetable
+walnut, walnut, nut
+watermelon, watermelon, fruit

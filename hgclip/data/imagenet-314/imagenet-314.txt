@@ -1,0 +1,314 @@
+n02110341 dalmatian
+n03947888 pirate
+n02130308 cheetah
+n02980441 castle
+n02445715 skunk
+n01698640 American alligator
+n01860187 black swan
+n03345487 fire engine
+n04252077 snowmobile
+n01534433 junco
+n03930630 pickup
+n04118538 rugby ball
+n02085620 Chihuahua
+n03584829 iron
+n03026506 Christmas stocking
+n02129604 tiger
+n02099712 Labrador retriever
+n03384352 forklift
+n02233338 cockroach
+n03775071 mitten
+n07760859 custard apple
+n02106662 German shepherd
+n01687978 agama
+n02701002 ambulance
+n07697313 cheeseburger
+n07880968 burrito
+n01914609 sea anemone
+n02112018 Pomeranian
+n10565667 scuba diver
+n03891332 parking meter
+n03355925 flagpole
+n04409515 tennis ball
+n02091032 Italian greyhound
+n02279972 monarch
+n07753592 banana
+n03444034 go-kart
+n12144580 corn
+n03724870 mask
+n02317335 starfish
+n02259212 leafhopper
+n02510455 giant panda
+n01770081 harvestman
+n04376876 syringe
+n03854065 organ
+n07714571 head cabbage
+n11879895 rapeseed
+n02823750 beer glass
+n07718472 cucumber
+n02128385 leopard
+n02113799 standard poodle
+n04482393 tricycle
+n09246464 cliff
+n03424325 gasmask
+n02879718 bow
+n07720875 bell pepper
+n12057211 yellow lady's slipper
+n02088466 bloodhound
+n02088238 basset
+n07714990 broccoli
+n03467068 guillotine
+n02837789 bikini
+n12267677 acorn
+n01580077 jay
+n04399382 teddy
+n01944390 snail
+n03594945 jeep
+n03291819 envelope
+n04347754 submarine
+n02226429 grasshopper
+n01985128 crayfish
+n02129165 lion
+n04146614 school bus
+n07614500 ice cream
+n03250847 drumstick
+n02787622 banjo
+n02112137 chow
+n03124170 cowboy hat
+n02325366 wood rabbit
+n03676483 lipstick
+n04507155 umbrella
+n02797295 barrow
+n07920052 espresso
+n04606251 wreck
+n03445924 golfcart
+n02051845 pelican
+n01774750 tarantula
+n02066245 grey whale
+n03804744 nail
+n02815834 beaker
+n02109525 Saint Bernard
+n01983481 American lobster
+n01924916 flatworm
+n02099601 golden retriever
+n02113023 Pembroke
+n04325704 stole
+n07695742 pretzel
+n03272010 electric guitar
+n03125729 cradle
+n01631663 eft
+n02110185 Siberian husky
+n07693725 bagel
+n04355338 sundial
+n01843383 toucan
+n03710193 mailbox
+n02410509 bison
+n03483316 hand blower
+n04554684 washer
+n03372029 flute
+n01531178 goldfinch
+n02219486 ant
+n01514859 hen
+n02607072 anemone fish
+n02138441 meerkat
+n03388043 fountain
+n01630670 common newt
+n07873807 pizza
+n03443371 goblet
+n02127052 lynx
+n04254120 soap dispenser
+n02007558 flamingo
+n03720891 maraca
+n02504458 African elephant
+n09229709 bubble
+n02128757 snow leopard
+n02098286 West Highland white terrier
+n02669723 academic gown
+n02966193 carousel
+n02356798 fox squirrel
+n03617480 kimono
+n09835506 ballplayer
+n02137549 mongoose
+n02117135 hyena
+n01616318 vulture
+n04522168 vase
+n02950826 cannon
+n04086273 revolver
+n02106030 collie
+n02281787 lycaenid
+n01644373 tree frog
+n03124043 cowboy boot
+n02999410 chain
+n02106550 Rottweiler
+n02102318 cocker spaniel
+n03452741 grand piano
+n03417042 garbage truck
+n07831146 carbonara
+n03590841 jack-o'-lantern
+n03602883 joystick
+n02113624 toy poodle
+n02777292 balance beam
+n01677366 common iguana
+n02447366 badger
+n04179913 sewing machine
+n02526121 eel
+n04317175 stethoscope
+n02690373 airliner
+n02108089 boxer
+n04067472 reel
+n07745940 strawberry
+n03982430 pool table
+n03717622 manhole cover
+n03495258 harp
+n02492035 capuchin
+n02423022 gazelle
+n02802426 basketball
+n02841315 binoculars
+n01735189 garter snake
+n07749582 lemon
+n03223299 doormat
+n02883205 bow tie
+n02091134 whippet
+n04019541 puck
+n04033901 quill
+n07768694 pomegranate
+n03837869 obelisk
+n04141076 sax
+n02174001 rhinoceros beetle
+n02363005 beaver
+n01518878 ostrich
+n02749479 assault rifle
+n01484850 great white shark
+n03840681 ocarina
+n02992211 cello
+n02097298 Scotch terrier
+n07583066 guacamole
+n04487394 trombone
+n04456115 torch
+n07742313 Granny Smith
+n04266014 space shuttle
+n02190166 fly
+n02268443 dragonfly
+n03014705 chest
+n02483362 gibbon
+n02119022 red fox
+n02948072 candle
+n02206856 bee
+n02096585 Boston bull
+n01855672 goose
+n02009912 American egret
+n01910747 jellyfish
+n03325584 feather boa
+n02123394 Persian cat
+n02769748 backpack
+n01694178 African chameleon
+n04562935 water tower
+n04536866 violin
+n02480855 gorilla
+n01558993 robin
+n02088094 Afghan hound
+n04252225 snowplow
+n02808440 bathtub
+n03196217 digital clock
+n02231487 walking stick
+n04389033 tank
+n02110958 pug
+n02843684 birdhouse
+n01806143 peacock
+n04131690 saltshaker
+n01748264 Indian cobra
+n02106166 Border collie
+n02037110 oystercatcher
+n01641577 bullfrog
+n03649909 lawn mower
+n02088364 beagle
+n02395406 hog
+n02909870 bucket
+n02094433 Yorkshire terrier
+n04465501 tractor
+n07734744 mushroom
+n01632777 axolotl
+n01669191 box turtle
+n02672831 accordion
+n01784675 centipede
+n01494475 hammerhead
+n03788195 mosque
+n03721384 marimba
+n02177972 weevil
+n02655020 puffer
+n02906734 broom
+n04039381 racket
+n02437616 llama
+n04591713 wine bottle
+n04509417 unicycle
+n01820546 lorikeet
+n04192698 shield
+n02486410 baboon
+n03255030 dumbbell
+n02361337 marmot
+n04147183 schooner
+n03888257 parachute
+n02108915 French bulldog
+n04552348 warplane
+n02782093 balloon
+n01847000 drake
+n02092339 Weimaraner
+n01833805 hummingbird
+n02939185 caldron
+n04208210 shovel
+n02814860 beacon
+n02454379 armadillo
+n01819313 sulphur-crested cockatoo
+n02114367 timber wolf
+n01882714 koala
+n02992529 cellular telephone
+n07697537 hotdog
+n04442312 toaster
+n02071294 killer whale
+n02346627 porcupine
+n04270147 spatula
+n02077923 sea lion
+n04344873 studio couch
+n04275548 spider web
+n02165456 ladybug
+n02236044 mantis
+n02134084 ice bear
+n02280649 cabbage butterfly
+n01498041 stingray
+n04310018 steam locomotive
+n02676566 acoustic guitar
+n04366367 suspension bridge
+n04235860 sleeping bag
+n04099969 rocking chair
+n02793495 barn
+n03670208 limousine
+n03935335 piggy bank
+n02391049 zebra
+n01614925 bald eagle
+n01770393 scorpion
+n03481172 hammer
+n01443537 goldfish
+n04532670 viaduct
+n03630383 lab coat
+n04540053 volleyball
+n09472597 volcano
+n03773504 missile
+n07753275 pineapple
+n02123045 tabby
+n04254680 soccer ball
+n02398521 hippopotamus
+n01986214 hermit crab
+n02364673 guinea pig
+n04133789 sandal
+n02133161 American black bear
+n02895154 breastplate
+n03494278 harmonica
+n02056570 king penguin
+n02951358 canoe
+n03498962 hatchet
+n02481823 chimpanzee
+n03666591 lighter
+n02730930 apron
+n02480495 orangutan
+n03187595 dial telephone
+n02086240 Shih-Tzu

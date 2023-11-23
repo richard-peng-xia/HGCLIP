@@ -1,0 +1,37 @@
+Abyssinian, Cat
+American Bulldog, Dog
+American Pit Bull Terrier, Dog
+Basset Hound, Dog
+Beagle, Dog
+Bengal, Cat
+Birman, Cat
+Bombay, Cat
+Boxer, Dog
+British Shorthair, Cat
+Chihuahua, Dog
+Egyptian Mau, Cat
+English Cocker Spaniel, Dog
+English Setter, Dog
+German Shorthaired, Dog
+Great Pyrenees, Dog
+Havanese, Dog
+Japanese Chin, Dog
+Keeshond, Dog
+Leonberger, Dog
+Maine Coon, Cat
+Miniature Pinscher, Dog
+Newfoundland, Dog
+Persian, Cat
+Pomeranian, Dog
+Pug, Dog
+Ragdoll, Cat
+Russian Blue, Cat
+Saint Bernard, Dog
+Samoyed, Dog
+Scottish Terrier, Dog
+Shiba Inu, Dog
+Siamese, Cat
+Sphynx, Cat
+Staffordshire Bull Terrier, Dog
+Wheaten Terrier, Dog
+Yorkshire Terrier, Dog

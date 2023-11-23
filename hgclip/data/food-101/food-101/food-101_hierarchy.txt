@@ -1,0 +1,101 @@
+apple_pie, dessert
+baby_back_ribs, meat dish
+baklava, dessert
+beef_carpaccio, meat dish
+beef_tartare, meat dish
+beet_salad, salad
+beignets, dessert
+bibimbap, rice dish
+bread_pudding, dessert
+breakfast_burrito, breakfast
+bruschetta, appetizer
+caesar_salad, salad
+cannoli, dessert
+caprese_salad, salad
+carrot_cake, dessert
+ceviche, seafood dish
+cheesecake, dessert
+cheese_plate, appetizer
+chicken_curry, poultry dish
+chicken_quesadilla, poultry dish
+chicken_wings, poultry dish
+chocolate_cake, dessert
+chocolate_mousse, dessert
+churros, dessert
+clam_chowder, soup
+club_sandwich, sandwich
+crab_cakes, seafood dish
+creme_brulee, dessert
+croque_madame, sandwich
+cup_cakes, dessert
+deviled_eggs, appetizer
+donuts, dessert
+dumplings, appetizer
+edamame, appetizer
+eggs_benedict, breakfast
+escargots, appetizer
+falafel, vegetarian dish
+filet_mignon, meat dish
+fish_and_chips, seafood dish
+foie_gras, meat dish
+french_fries, side dish
+french_onion_soup, soup
+french_toast, breakfast
+fried_calamari, seafood dish
+fried_rice, rice dish
+frozen_yogurt, dessert
+garlic_bread, bread
+gnocchi, pasta
+greek_salad, salad
+grilled_cheese_sandwich, sandwich
+grilled_salmon, seafood dish
+guacamole, dip
+gyoza, appetizer
+hamburger, sandwich
+hot_and_sour_soup, soup
+hot_dog, sandwich
+huevos_rancheros, breakfast
+hummus, dip
+ice_cream, dessert
+lasagna, pasta
+lobster_bisque, soup
+lobster_roll_sandwich, sandwich
+macaroni_and_cheese, pasta
+macarons, dessert
+miso_soup, soup
+mussels, seafood dish
+nachos, appetizer
+omelette, breakfast
+onion_rings, side dish
+oysters, seafood dish
+pad_thai, noodle dish
+paella, rice dish
+pancakes, breakfast
+panna_cotta, dessert
+peking_duck, poultry dish
+pho, noodle dish
+pizza, pizza
+pork_chop, meat dish
+poutine, side dish
+prime_rib, meat dish
+pulled_pork_sandwich, sandwich
+ramen, noodle dish
+ravioli, pasta
+red_velvet_cake, dessert
+risotto, rice dish
+samosa, appetizer
+sashimi, seafood dish
+scallops, seafood dish
+seaweed_salad, salad
+shrimp_and_grits, seafood dish
+spaghetti_bolognese, pasta
+spaghetti_carbonara, pasta
+spring_rolls, appetizer
+steak, meat dish
+strawberry_shortcake, dessert
+sushi, sushi
+tacos, sandwich
+takoyaki, appetizer
+tiramisu, dessert
+tuna_tartare, seafood dish
+waffles, breakfast
