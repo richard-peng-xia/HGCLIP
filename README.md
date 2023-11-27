@@ -2,7 +2,7 @@
 
 ## 👀Introduction
 
-This repository contains the code for our paper `HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding`.
+This repository contains the code for our paper `HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding`. [[arXiv](https://arxiv.org/abs/2311.14064)]
 
 Created by [Peng Xia](https://peng-xia.site/), [Xingtong Yu](https://xingtongyu.netlify.app/), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Lie Ju](https://mmai.group/peoples/julie/), [Zhiyong Wang](https://scholar.google.com/citations?user=Sqou_P0AAAAJ&hl=zh-CN&oi=ao), [Peibo Duan](https://research.monash.edu/en/persons/ben-duan), [Zongyuan Ge](https://zongyuange.github.io/).
 
@@ -120,3 +120,15 @@ We use code from [MaPLe](https://github.com/muzairkhattak/multimodal-prompt-lear
 ## 📧Contact
 
 If you have any questions, please create an issue on this repository or contact at [peng.xia@monash.edu](mailto:peng.xia@monash.edu).
+
+## 📝Citing
+
+If you find this code useful, please consider to cite our work.
+```bibtex
+@article{xia2023hgclip,
+ title={HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding},
+ author={Xia, Peng and Yu, Xingtong and Hu, Ming and Ju, Lie and Wang, Zhiyong and Duan, Peibo and Ge, Zongyuan},
+ journal={arXiv preprint arXiv:2311.14064},
+ year={2023}
+}
+```
