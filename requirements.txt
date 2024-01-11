@@ -171,7 +171,7 @@ torchvision==0.14.0
 tornado==6.2
 tqdm==4.59.0
 traitlets==5.9.0
-transformers==4.26.1
+transformers==4.36.0
 typer==0.7.0
 tzdata==2022.7
 tzlocal==4.3
