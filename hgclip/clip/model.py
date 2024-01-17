@@ -339,7 +339,7 @@ class Transformer(nn.Module):
         self.layers = layers
         # Implements respective encoder blocks for a given design choice
         current_trainer = design_details['trainer']
-        if current_trainer == 'IVLP' or current_trainer == 'VPT':
+        if current_trainer == 'HGCLIP' or current_trainer == 'VPT':
             self.resblocks = nn.Sequential(*[ResidualAttentionBlock_IVLP(width, heads, attn_mask, True,
                                                                          text_layer, i,
                                                                          design_details) if prompts_needed > i
