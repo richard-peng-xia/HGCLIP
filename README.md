@@ -4,7 +4,7 @@
 
 This repository contains the code for our paper `HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding`. [[arXiv](https://arxiv.org/abs/2311.14064)]
 
-Created by [Peng Xia](https://peng-xia.site/), [Xingtong Yu](https://xingtongyu.netlify.app/), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Lie Ju](https://mmai.group/peoples/julie/), [Zhiyong Wang](https://scholar.google.com/citations?user=Sqou_P0AAAAJ&hl=zh-CN&oi=ao), [Peibo Duan](https://research.monash.edu/en/persons/ben-duan), [Zongyuan Ge](https://zongyuange.github.io/).
+Created by [Peng Xia](https://richard-peng-xia.github.io/), [Xingtong Yu](https://xingtongyu.netlify.app/), [‪Ming Hu‬‬](https://minghu0830.github.io/), [Lie Ju](https://mmai.group/peoples/julie/), [Zhiyong Wang](https://scholar.google.com/citations?user=Sqou_P0AAAAJ&hl=zh-CN&oi=ao), [Peibo Duan](https://research.monash.edu/en/persons/ben-duan), [Zongyuan Ge](https://zongyuange.github.io/).
 
 ![](fig/fig.png)
 
@@ -119,7 +119,7 @@ We use code from [MaPLe](https://github.com/muzairkhattak/multimodal-prompt-lear
 
 ## 📧Contact
 
-If you have any questions, please create an issue on this repository or contact at [peng.xia@monash.edu](mailto:peng.xia@monash.edu).
+If you have any questions, please create an issue on this repository or contact at [richard.peng.xia@gmail.com](mailto:richard.peng.xia@gmail.com).
 
 ## 📝Citing
 
