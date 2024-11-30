@@ -1,4 +1,4 @@
-# HGCLIP
+# [COLING'25] HGCLIP
 
 ## 👀Introduction
 
